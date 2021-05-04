@@ -13,6 +13,7 @@
 		CEDB09D7263E7A3700ED2E63 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEDB09D5263E7A3700ED2E63 /* Main.storyboard */; };
 		CEDB09D9263E7A3800ED2E63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEDB09D8263E7A3800ED2E63 /* Assets.xcassets */; };
 		CEDB09DC263E7A3800ED2E63 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEDB09DA263E7A3800ED2E63 /* LaunchScreen.storyboard */; };
+		CEDB0A08263F03AD00ED2E63 /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDB0A07263F03AD00ED2E63 /* PhotoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CEDB09D8263E7A3800ED2E63 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEDB09DB263E7A3800ED2E63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEDB09DD263E7A3800ED2E63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEDB0A07263F03AD00ED2E63 /* PhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CEDB09CF263E7A3700ED2E63 /* AppDelegate.swift */,
 				CEDB09D1263E7A3700ED2E63 /* SceneDelegate.swift */,
 				CEDB09D3263E7A3700ED2E63 /* ViewController.swift */,
+				CEDB0A07263F03AD00ED2E63 /* PhotoViewController.swift */,
 				CEDB09D5263E7A3700ED2E63 /* Main.storyboard */,
 				CEDB09D8263E7A3800ED2E63 /* Assets.xcassets */,
 				CEDB09DA263E7A3800ED2E63 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEDB09D4263E7A3700ED2E63 /* ViewController.swift in Sources */,
+				CEDB0A08263F03AD00ED2E63 /* PhotoViewController.swift in Sources */,
 				CEDB09D0263E7A3700ED2E63 /* AppDelegate.swift in Sources */,
 				CEDB09D2263E7A3700ED2E63 /* SceneDelegate.swift in Sources */,
 			);
